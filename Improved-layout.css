@@ -50,7 +50,6 @@ section.container {
             background-color: unset;
         }
 
-        /* Side Navigation */
         .left {
             margin-top: 20px;
         }
@@ -78,7 +77,6 @@ section.container {
             border-left: 2px solid darkolivegreen;
 
             /* Top and bottom Nav Only*/
-
             .nav {
                 text-align: right;
             }
